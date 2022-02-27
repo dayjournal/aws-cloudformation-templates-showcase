@@ -24,7 +24,7 @@ Copyright (c) 2022 Yasunori Kirimoto
 
 AWS CloudFormationのテンプレートのショーケース
 
-- [独自ドメインホスティング](https://github.com/dayjournal/aws-cloudformation-templates-showcase/unique-domain-hosting)  
+- [独自ドメインホスティング](https://github.com/dayjournal/aws-cloudformation-templates-showcase/tree/main/unique-domain-hosting)  
 
 <br>
 
